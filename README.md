@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **georg.papageorg@gmail.com**
 - 👨‍💻 All of my projects are available at **https://gpapageorgiou.netlify.app/** (currently under construction)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gpapageorg&label=Profile%20views&color=0e75b6&style=flat" alt="gpapageorg" /> </p>
 <div> <a href="https://github.com/gpapageorg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:georg.papageorg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools Used In Projects:</h3>
@@ -27,3 +27,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gpapageorg&theme=algolia" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpapageorg&theme=algolia" height="180em" />
 </div>
+
