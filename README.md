@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm an Electrical And Computer Engineering Student George Papageorgiou</h1>
 
 - 📫 How to reach me **georg.papageorg@gmail.com**
-- 👨‍💻 All of my projects are available at **https://gpapageorgiou.netlify.app/**
+- 👨‍💻 All of my projects are available at **https://gpapageorgiou.netlify.app/** (currently under construction)
 
 <div> <a href="https://github.com/gpapageorg" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:georg.papageorg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
