@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm an Electrical And Computer Engineering Student George Papageorgiou</h1>
+<h1 align="center">Hi, I'm George Papageorgiou</h1>
 
 - 📫 How to reach me **georg.papageorg@gmail.com**
 - 👨‍💻 All of my projects are available at **https://gpapageorgiou.netlify.app/** (currently under construction)
