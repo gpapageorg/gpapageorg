@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm George Papageorgiou</h1>
+<!--<h1 align="center">Hi, I'm George Papageorgiou</h1>
 
 - 📫 How to reach me **georg.papageorg@gmail.com**
 - 👨‍💻 All of my projects are available at **https://gpapageorgiou.netlify.app/** (currently under construction)
@@ -25,6 +25,6 @@
 <div align="center">
 <a href="https://github.com/gpapageorg">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpapageorg&theme=algolia" height="180em" />
-</div>
+</div>-->
 
 
